@@ -1,0 +1,1 @@
+Supervisor-Apache-RabbitMQ-Docker
